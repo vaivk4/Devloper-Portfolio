@@ -1,0 +1,25 @@
+body{
+    background-color: #171c28;
+}
+
+/* text color devloper name */
+.grey-color{
+    color: #fff !important;
+}
+
+/* logo */
+.logo-div{
+    margin-left: 3%;
+}
+
+a{
+    text-decoration: none;
+    color: #fff !important;
+}
+
+.header-div{
+    display: inline;
+}
+.menu-div{
+    float: right;
+}
