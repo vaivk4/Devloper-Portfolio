@@ -3,6 +3,22 @@ body{
 }
 
 /* text color devloper name */
+.header-title ,.instruction-text{
+    color: #fff !important;
+}
+
+h1{
+    text-align: center;
+    margin-top: 6%;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 1000;
+}
+.instructio-font{
+    text-align: center;
+    margin-top: 1%;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
 .grey-color{
     color: #fff !important;
 }
@@ -18,7 +34,7 @@ a{
 }
 
 .header-div{
-    display: inline;
+    display: inline-block;
 }
 .menu-div{
     float: right;
