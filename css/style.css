@@ -1,5 +1,6 @@
 body{
     background-color: #171c28;
+    margin: 4%;
 }
 
 /* text color devloper name */
@@ -13,12 +14,21 @@ h1{
     font-family: 'Roboto Slab', serif;
     font-weight: 1000;
 }
-.instructio-font{
+.instruction-font{
     text-align: center;
     margin-top: 1%;
     font-family: 'Roboto Slab', serif;
     font-weight: 700;
 }
+
+.link-font{
+    color: #fff !important;
+}
+
+.link-layout{
+    margin-top: 7%;
+}
+
 .grey-color{
     color: #fff !important;
 }
